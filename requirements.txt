@@ -1,0 +1,7 @@
+opencv-python
+numpy
+ultralytics
+scipy
+shapely
+pypylon
+keyboard
